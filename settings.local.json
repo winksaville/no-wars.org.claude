@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jj st:*)",
+      "Bash(vc-x1 chid:*)",
+      "Bash(jj commit:*)",
+      "Bash(jj bookmark:*)",
+      "Bash(jj git:*)",
+      "Bash(vc-x1 finalize:*)"
+    ]
+  }
+}
