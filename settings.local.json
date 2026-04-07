@@ -6,7 +6,11 @@
       "Bash(jj commit:*)",
       "Bash(jj bookmark:*)",
       "Bash(jj git:*)",
-      "Bash(vc-x1 finalize:*)"
+      "Bash(vc-x1 finalize:*)",
+      "Bash(cargo fmt:*)",
+      "Bash(cargo clippy:*)",
+      "Bash(cargo build:*)",
+      "Bash(cargo test:*)"
     ]
   }
 }
