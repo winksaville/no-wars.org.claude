@@ -10,7 +10,16 @@
       "Bash(cargo fmt:*)",
       "Bash(cargo clippy:*)",
       "Bash(cargo build:*)",
-      "Bash(cargo test:*)"
+      "Bash(cargo test:*)",
+      "Bash(jj log:*)",
+      "Bash(grep:*)",
+      "Bash(cargo metadata:*)",
+      "Bash(rustc:*)",
+      "Bash(rustup target:*)",
+      "Bash(ldd /home/wink/data/prgs/websites/no-wars.org/target/x86_64-unknown-linux-musl/release/no-wars)",
+      "Bash(jj diff:*)",
+      "Bash(jj squash:*)",
+      "Bash(jj describe:*)"
     ]
   }
 }
